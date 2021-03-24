@@ -1,7 +1,6 @@
 import React from "react";
 import "./settings.css";
-import Form from "./components/form.jsx"
-import React from "react";
+import Form from "../components/form.jsx"
 import Joi from "joi-browser";
 
 class SettingsForm extends Form {
